@@ -1,0 +1,35 @@
+header, nav, #coluna_centralizada {
+	text-align: center;
+}
+
+body {
+    margin-left: 20px;
+}
+
+#nome_livro, #nome_saga {
+	max-width: 20%;
+}
+
+#n_paginas_fisico, #n_paginas_ebook, #pagina_atual, #n_livros {
+	max-width: 20%;
+}
+
+#mensagem {
+	max-width: 20%;
+}
+
+#centralizar_linhas, #coluna_centralizada {
+	vertical-align: middle;
+}
+
+#tamanho_tabela_categoria {
+	max-width: 40%;
+}
+
+#sexo_autor {
+	max-width: 5%;
+}
+
+#dpd_autores {
+	max-width: 30%;
+}
