@@ -1,10 +1,10 @@
 /************* READ ME FROM OLIVIA *************/
 
-Attention: this software is incomplete! I couldn't finish it yet!
+Attention: this software is incomplete! I couldn't finish it.
 
-Hi! In this study, I started to develop a system where you can register all the books you've read so far and it will give you statistics like: the percentage of male and female authors, the percentage of authors from each continent and so on. I couldn't finish this project yet because I had other projects do to, with a tight deadline, and this started as a study. I plan to continue it as soon as I have free time!
+Hi! In this study, I started to develop a system where you can register all the books you've read so far and it will give you statistics like: the percentage of male and female authors, the percentage of authors from each continent and so on. I couldn't finish this project because I had other projects do to, with a tight deadline, and this was just a study.
 
-I'm learning Laravel in a independent way. PHP is one of my favorites languages to use in back-end and I decided that is time to learn some frameworks to expand my knowledge.
+I was learning Laravel in a independent way. PHP is one of my favorites languages to use in back-end and I decided that is time to learn some frameworks to expand my knowledge.
 
 Feel free to contact me through my e-mail: oli.pmatt@gmail.com. I'll be really happy to receive some feedback. Please, denote that you reached me through GitHub. Thank you!
 
